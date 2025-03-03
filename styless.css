@@ -1,0 +1,278 @@
+/* Add subtle background color for the body */
+.body-class {
+  background-color: #f0f0f0; /* Light grey background */
+  font-family: Arial, sans-serif; /* Clear and readable font */
+  color: #333333; /* Default text color */
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+/* Header Styling */
+.header-class {
+  background-color: #333333; 
+  color: #ffffff; 
+  padding: 20px;
+  text-align: center;
+}
+
+.title-class {
+  font-size: 2.5em;
+  color: #ffcc00;
+  margin: 0;
+}
+
+/* Navigation Styling */
+.nav-class {
+  background-color: #444444; 
+  padding: 10px 0;
+  text-align: center;
+}
+
+.nav-link-class {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.nav-link-class:hover {
+  background-color: #ffcc00;
+}
+
+.nav-link-class:active {
+  font-weight: bold; 
+}
+
+/* Hero Section Styling */
+.hero-section-class {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section-class .section-title-class {
+  color: #ff6600; /* Orange color for the section title */
+  font-size: 2em;
+}
+
+.hero-section-class .text-class {
+  color: #333333;
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.hero-section-class .image-class {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border: 5px solid #ff6600; /* Border around the image */
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+/* Origin Section Styling */
+.origin-section-class {
+  background-color: #f9f9f9;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.origin-section-class .section-title-class {
+  color: #00b3b3; /* Teal color for section title */
+}
+
+.origin-section-class .text-class {
+  color: #666666;
+  font-size: 1.1em;
+}
+
+/* Testimonial Section Styling */
+.testimonial-section-class {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-section-class .section-title-class {
+  color: #ff6600; 
+}
+
+.testimonial-section-class .blockquote-class {
+  background-color: #f0f0f0;
+  border-left: 5px solid #ff6600;
+  padding: 20px;
+  margin: 20px 0;
+  font-style: italic;
+}
+
+.testimonial-section-class .cite-class {
+  display: block;
+  text-align: right;
+  color: #999999;
+}
+
+/* FAQ Section Styling */
+.faq-section-class {
+  background-color: #f9f9f9;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.faq-section-class .section-title-class {
+  color: #00b3b3;
+}
+
+.faq-section-class .faq-question-class {
+  font-weight: bold;
+  color: #ff6600;
+  font-size: 1.2em;
+}
+
+.faq-section-class .text-class {
+  color: #666666;
+  font-size: 1.1em;
+}
+
+/* Newsletter Section Styling */
+.newsletter-section-class {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.newsletter-section-class .section-title-class {
+  color: #ff6600;
+}
+
+.newsletter-section-class .form-class {
+  text-align: left;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.newsletter-section-class .input-class {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.newsletter-section-class .button-class {
+  background-color: #ff6600;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.newsletter-section-class .button-class:hover {
+  background-color: #e65c00;
+}
+
+/* Contact Section Styling */
+.contact-section-class {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-section-class .form-class {
+  text-align: left;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.contact-section-class .input-class {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.contact-section-class .button-class {
+  background-color: #ff6600;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-section-class .button-class:hover {
+  background-color: #e65c00;
+}
+
+/* Footer Section Styling */
+.footer-class {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-class .text-class {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .body-class {
+    padding: 0 10px;
+  }
+
+  .header-class, .footer-class {
+    padding: 10px;
+  }
+
+  .nav-class {
+    padding: 10px;
+  }
+
+  .nav-link-class {
+    padding: 5px 10px;
+  }
+
+  .hero-section-class, .origin-section-class, .testimonial-section-class, .faq-section-class, .newsletter-section-class, .contact-section-class {
+    padding: 20px;
+  }
+
+  .input-class {
+    width: 100%;
+  }
+
+  .image-class {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .title-class {
+    font-size: 2em;
+  }
+
+  .section-title-class {
+    font-size: 1.5em;
+  }
+
+  .text-class {
+    font-size: 1em;
+  }
+}
